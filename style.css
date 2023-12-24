@@ -1,0 +1,61 @@
+.head {
+    text-align: center;
+    width: 100%;
+}
+
+.contect {
+    text-align: center;
+    background-color: lightgrey;
+}
+
+.contect input[type="text"] {
+    display: block;
+    margin: auto; /* Otomatik margin ile merkeze al */
+    text-align: center;
+    width: 40%;
+}
+
+.contect1 {
+    display: inline-block;
+    background-color: aqua;
+    width: 38%;
+    vertical-align: top; /* Üst kısma hizalama */
+    margin-top: 2px;
+    text-align: center;
+    height: 90px;
+}
+
+.contect1 ul {
+    list-style-type: none;
+}
+.contect2 {
+    display: inline-block;
+    background-color: cadetblue;
+    width: 23.1%;
+    height: 90px;
+    vertical-align: top; /* Üst kısma hizalama */
+    margin-top: 2px;
+    text-align: center;    
+}
+.contect2 ul {
+    list-style-type: none;
+    margin-top: 4px;
+}
+.contect3{
+    display: inline-block;
+    background-color: aqua;
+    width: 38%;
+    vertical-align: top; /* Üst kısma hizalama */
+    margin-top: 2px;
+    text-align: center;
+    height: 90px;
+
+}
+.contect3 ul{
+    list-style-type: none;
+    position: relative;
+    margin-top: 3px;
+}
+footer{
+    text-align: center;
+}
